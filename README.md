@@ -1,2 +1,5 @@
 # Olá Mundo!
- Primeiro repositório versionado - Curso Git e GitHub
+ Primeiro repositório versionado - Curso Git e 
+ 
+ Repositório criado com base na aula do professor Gustavo Guanabara.
+ 
